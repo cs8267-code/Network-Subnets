@@ -1,11 +1,11 @@
 #enter your unique code
-uniquecode = 
+uniquecode = 12112
 
 #problem 1
-p1Network = ''
-p1Broadcast = ''
-p1First = ''
-p1Last =  ''
+p1Network = '48.137.143.192'
+p1Broadcast = '48.137.143.255'
+p1First = '48.137.143.193'
+p1Last =  '48.137.143.254'
 
 #problem 2
 p2Network = ''
